@@ -1,0 +1,92 @@
+Album,Year,Song,Number,sentiment,symbol
+Know.,2018,,0,1.095808383233533,mean
+Know.,2018,Let's See What The Night Can Do,1,-0.7647058823529411,negative
+Know.,2018,Have It All,2,1.0701754385964912,positive
+Know.,2018,More Than Friends,3,-0.1,negative
+Know.,2018,Unlonely,4,1.88,positive
+Know.,2018,Better With You,5,1.8235294117647058,positive
+Know.,2018,No Plans,6,-0.2222222222222222,negative
+Know.,2018,Sleeping To Dream,7,-0.4666666666666667,negative
+Know.,2018,Making It Up,8,1,positive
+Know.,2018,Might As Well Dance,9,0.3181818181818182,positive
+Know.,2018,Love Is Still The Answer,10,2.219178082191781,positive
+Look For The Good,2020,,0,1.4194577352472089,mean
+Look For The Good,2020,Look For The Good,1,1.4782608695652173,positive
+Look For The Good,2020,Make Love,2,1.7608695652173914,positive
+Look For The Good,2020,My Kind,3,1.7160493827160495,positive
+Look For The Good,2020,Good Old Daze,4,2.4444444444444446,positive
+Look For The Good,2020,You Do You,5,0.9473684210526315,positive
+Look For The Good,2020,Wise Woman,6,2,positive
+Look For The Good,2020,Take The Music,7,1,positive
+Look For The Good,2020,Time Out,8,-0.22033898305084745,negative
+Look For The Good,2020,DJ FM AM JJASON,9,1.7169811320754718,positive
+Look For The Good,2020,Hearing Double,10,0.6551724137931034,positive
+Look For The Good,2020,The Minute I Heard Of Love,11,1.8461538461538463,positive
+Look For The Good,2020,Gratitude,12,2.1333333333333333,positive
+Look For The Good,2020,Before It All Ends,13,1.2222222222222223,positive
+Look For The Good,2020,Be Where Your Feet Are,14,-1.4545454545454546,negative
+Love Is A Four Letter Word,2012,,0,1.2535211267605635,mean
+Love Is A Four Letter Word,2012,Freedom Song,1,2.2982456140350878,positive
+Love Is A Four Letter Word,2012,Living In The Moment,2,1.1785714285714286,positive
+Love Is A Four Letter Word,2012,The Woman I Love,3,1.5454545454545454,positive
+Love Is A Four Letter Word,2012,I Won't Give Up,4,1.7222222222222223,positive
+Love Is A Four Letter Word,2012,6-May,5,1.4285714285714286,positive
+Love Is A Four Letter Word,2012,Everything Is Sound,6,0.5555555555555556,positive
+Love Is A Four Letter Word,2012,93 Million Miles,7,1.4166666666666667,positive
+Love Is A Four Letter Word,2012,Frank D Fixer,8,1,positive
+Love Is A Four Letter Word,2012,Who's Thinking About You Now?,9,1.1395348837209303,positive
+Love Is A Four Letter Word,2012,In Your Hands,10,-0.1111111111111111,negative
+Love Is A Four Letter Word,2012,Be Honest,11,1.6176470588235294,positive
+Love Is A Four Letter Word,2012,The World As I See It,12,0.6842105263157895,positive
+Mr. A-Z,2005,,0,0.5284974093264249,mean
+Mr. A-Z,2005,Life Is Wonderful,1,2.088235294117647,positive
+Mr. A-Z,2005,Wordplay,2,1.8611111111111112,positive
+Mr. A-Z,2005,Geek In The Pink,3,-0.024390243902439025,negative
+Mr. A-Z,2005,Did You Get My Message?,4,0.6363636363636364,positive
+Mr. A-Z,2005,Mr. Curiosity,5,0.5142857142857142,positive
+Mr. A-Z,2005,Clockwatching,6,0,zero
+Mr. A-Z,2005,Bella Luna,7,1.2580645161290323,positive
+Mr. A-Z,2005,Plane,8,-0.8378378378378378,negative
+Mr. A-Z,2005,O. Lover,9,0.18604651162790697,positive
+Mr. A-Z,2005,Please Don't Tell Her,10,-0.30303030303030304,negative
+Mr. A-Z,2005,Forecast,11,-0.4166666666666667,negative
+Mr. A-Z,2005,Song For A Friend,12,1.4444444444444444,positive
+Waiting For My Rocket To Come,2002,,0,0.2777777777777778,mean
+Waiting For My Rocket To Come,2002,You And I Both,1,2,positive
+Waiting For My Rocket To Come,2002,I'll Do Anything,2,0.375,positive
+Waiting For My Rocket To Come,2002,Remedy (I Won't Worry),3,-1,negative
+Waiting For My Rocket To Come,2002,Who Needs Shelter,4,0.11764705882352941,positive
+Waiting For My Rocket To Come,2002,Curbside Prophet,5,-0.7058823529411765,negative
+Waiting For My Rocket To Come,2002,Too Much Food,6,0.14814814814814814,positive
+Waiting For My Rocket To Come,2002,Absolutely Zero,7,0.16666666666666666,positive
+Waiting For My Rocket To Come,2002,"On Love, In Sadness",8,0.18181818181818182,positive
+Waiting For My Rocket To Come,2002,No Stopping Us,9,0.1951219512195122,positive
+Waiting For My Rocket To Come,2002,Boy's Gone,10,1.5714285714285714,positive
+Waiting For My Rocket To Come,2002,"Tonight, Not Again",11,1.5238095238095237,positive
+"We Sing, We Dance, We Steal Things",2008,,0,0.8724637681159421,mean
+"We Sing, We Dance, We Steal Things",2008,Make It Mine,1,1.4615384615384615,positive
+"We Sing, We Dance, We Steal Things",2008,I'm Yours,2,0.7560975609756098,positive
+"We Sing, We Dance, We Steal Things",2008,Lucky,3,2.5483870967741935,positive
+"We Sing, We Dance, We Steal Things",2008,Butterfly,4,1.0833333333333333,positive
+"We Sing, We Dance, We Steal Things",2008,Live High,5,1.1428571428571428,positive
+"We Sing, We Dance, We Steal Things",2008,Love For A Child,6,0.6086956521739131,positive
+"We Sing, We Dance, We Steal Things",2008,Details In The Fabric,7,-0.782608695652174,negative
+"We Sing, We Dance, We Steal Things",2008,Coyotes,8,0.14814814814814814,positive
+"We Sing, We Dance, We Steal Things",2008,Only Human,9,0.56,positive
+"We Sing, We Dance, We Steal Things",2008,The Dynamo Of Volition,10,1.5714285714285714,positive
+"We Sing, We Dance, We Steal Things",2008,If It Kills Me,11,-0.0625,negative
+"We Sing, We Dance, We Steal Things",2008,A Beautiful Mess,12,0.8536585365853658,positive
+Yes!,2014,,0,0.9950248756218906,mean
+Yes!,2014,Love Someone,1,2.739130434782609,positive
+Yes!,2014,"Hello, You Beautiful Thing",2,1.0833333333333333,positive
+Yes!,2014,Long Drive,3,0.75,positive
+Yes!,2014,Everywhere,4,1,positive
+Yes!,2014,Best Friend,5,1.9615384615384615,positive
+Yes!,2014,Quiet,6,-0.47619047619047616,negative
+Yes!,2014,Out Of My Hands,7,1.5,positive
+Yes!,2014,It's So Hard To Say Goodbye To Yesterday,8,0.5384615384615384,positive
+Yes!,2014,3 Things,9,1.4545454545454546,positive
+Yes!,2014,You Can Rely On Me,10,0.38461538461538464,positive
+Yes!,2014,Back To The Earth,11,-1.125,negative
+Yes!,2014,A World With You,12,0,zero
+Yes!,2014,Shine,13,1.0666666666666667,positive
